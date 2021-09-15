@@ -7,6 +7,7 @@ Windows平台上的连连看小游戏
 
 ## 游戏运行
 开始界面：
+点击开始游戏
 ![image](https://user-images.githubusercontent.com/47135824/133362359-a97815e2-927f-4da8-a59f-308b8a4f2d79.png)
 
 运行界面：
