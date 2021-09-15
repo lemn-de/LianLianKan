@@ -14,5 +14,5 @@ Windows平台上的连连看小游戏
 ![image](https://user-images.githubusercontent.com/47135824/133362413-c78a8ba6-4686-42ad-bcfd-1c2dee865c64.png)
 
 完成界面：
-可选择重新开始或者退出游戏
+可选择重新开始或者退出游戏（我用wzry的ui不会有事吧？）
 ![image](https://user-images.githubusercontent.com/47135824/133362712-23aa2b60-3b1c-456a-a46f-b6de82923cf2.png)
