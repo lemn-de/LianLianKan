@@ -7,8 +7,11 @@ Windows平台上的连连看小游戏
 
 ## 项目文件说明
 连连看.exe   vs2010静态链接生成的Windows可执行文件，打开即可运行
+
 EasyX_20190415(beta).exe      EasyX安装包
+
 EasyX_Help.chm                EasyX使用手册
+
 连连看.cpp                     项目主要源代码
 
 
